@@ -1,0 +1,23 @@
+{
+  "name": "phono-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "echo \"gh-pages -d PHONO_WEBSITE "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gregt26/PHONO_WEBSITE.git"
+  },
+  "keywords": [],
+  "author": "Greg Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gregt26/PHONO_WEBSITE/issues"
+  },
+  "homepage": "https://Gregt26.github.io/PHONO_WEBSITE",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
