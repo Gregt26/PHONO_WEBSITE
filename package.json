@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "echo \"gh-pages -d PHONO_WEBSITE "
+    "deploy": "gh-pages"
   },
   "repository": {
     "type": "git",
