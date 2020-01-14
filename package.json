@@ -1,10 +1,10 @@
 {
   "name": "phono-website",
   "version": "1.0.0",
-  "description": "",
+  "description": "Product Landing Page",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages"
+    "deploy": "gh-pages -d dist "
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,6 @@
   "homepage": "https://gregt26.github.io/PHONO_WEBSITE",
   "dependencies": {
     "gh-pages": "^2.2.0"
-  }
+  },
+  "devDependencies": {}
 }
