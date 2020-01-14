@@ -4,7 +4,7 @@
   "description": "Product Landing Page",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist "
+    "deploy": "gh-pages-deploy "
   },
   "repository": {
     "type": "git",
